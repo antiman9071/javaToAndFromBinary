@@ -1,5 +1,5 @@
 # javaToBinary
-a calculator to convert a letter into ascii and binary or convert a number into binary
+a calculator to convert a letter into ascii and binary or convert a number into binary or vice versa
 
 # How to use
 designed for linux 
